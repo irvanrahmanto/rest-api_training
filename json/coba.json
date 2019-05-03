@@ -1,0 +1,30 @@
+[
+    { 
+        "nama": "irvan",
+        "umur": 19,
+        "nim": "1301164062",
+        "lulus" : false,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing" : {
+            "pembinging1": "prasti eko yunato",
+            "pembinging2": "Wayne Rooney"
+        }
+    },
+    { 
+        "nama": "irvan",
+        "umur": 19,
+        "nim": "1301164062",
+        "lulus" : false,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing" : {
+            "pembinging1": "prasti eko yunato",
+            "pembinging2": "Wayne Rooney"
+        }
+    }
+]
